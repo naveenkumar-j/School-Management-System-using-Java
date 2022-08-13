@@ -1,6 +1,6 @@
 <h1 align="center">School Management System</h1> 
 
-<h5 align="center"> Desktop Application Download link: <a href="https://t.me/eagle_programming/6">SchoolManagementSystem.exe</a></h5>
+<h5 align="center"> Desktop Application Download link: <a href="https://t.me/eagle_programming">SchoolManagementSystem.exe</a></h5>
 
 
 ## About Project:
