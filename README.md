@@ -1,6 +1,6 @@
 <h1 align="center">School Management System</h1> 
 
-### Desktop Application Download link: <a href="https://t.me/eagle_programming/6">SchoolManagementSystem.exe</a>
+<h5 align="center"> Desktop Application Download link: <a href="https://t.me/eagle_programming/6">SchoolManagementSystem.exe</a></h5>
 
 
 ## About Project:
@@ -27,15 +27,32 @@ A School Management System Java Code allows you to keep the student records, Tea
 ## Main Menu page:
 ![image](https://user-images.githubusercontent.com/70682152/184478211-eee21a28-62ff-41e1-a006-12d560189566.png)
 
+## Class page:
+![image](https://user-images.githubusercontent.com/70682152/184478834-f5dc353e-9fea-4f93-8045-e395408fce14.png)
+
+## Subject page:
+![image](https://user-images.githubusercontent.com/70682152/184478857-10a876ca-c692-4c54-b3a4-68ee67957130.png)
+
+
+## Exam page:
+![image](https://user-images.githubusercontent.com/70682152/184478902-e792772f-ef2a-45d5-bb18-caecedfa4528.png)
+
+
 ## Student Management page:
 ![image](https://user-images.githubusercontent.com/70682152/184478242-5a4e274a-5218-4ecd-a21b-1ba13e4bb4df.png)
 
 
+
+## Mark page:
+![image](https://user-images.githubusercontent.com/70682152/184478931-60d435c9-c238-4214-8c90-3844ba39ca94.png)
+
+
+## Teacher page:
+![image](https://user-images.githubusercontent.com/70682152/184478939-7edf3989-7570-42c0-b535-02896e848c57.png)
+
+
 ## About Project page:
 ![image](https://user-images.githubusercontent.com/70682152/184478272-89558c75-857b-450a-9ada-62cc1081b0ea.png)
-
-
-
 
 
 - ### Tech Stack used:
