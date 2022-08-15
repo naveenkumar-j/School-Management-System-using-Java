@@ -81,7 +81,7 @@ A School Management System Java Code allows you to keep the student records, Tea
 ![image](https://user-images.githubusercontent.com/70682152/184478272-89558c75-857b-450a-9ada-62cc1081b0ea.png)
 
 <div align="right">
-    <b><a href="#----">↥ back to top</a></b>
+    <b><a href="#">↥ back to top</a></b>
 </div>
 
   
