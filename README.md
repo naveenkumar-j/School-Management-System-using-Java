@@ -53,28 +53,53 @@ A School Management System Java Code allows you to keep the student records, Tea
 ## Main Menu page:
 ![image](https://user-images.githubusercontent.com/70682152/184478211-eee21a28-62ff-41e1-a006-12d560189566.png)
 
+<div align="right">
+    <b><a href="#">↥ back to top</a></b>
+</div>
+
 ## Class page:
 ![image](https://user-images.githubusercontent.com/70682152/184478834-f5dc353e-9fea-4f93-8045-e395408fce14.png)
 
+<div align="right">
+    <b><a href="#">↥ back to top</a></b>
+</div>
+
 ## Subject page:
 ![image](https://user-images.githubusercontent.com/70682152/184478857-10a876ca-c692-4c54-b3a4-68ee67957130.png)
+
+<div align="right">
+    <b><a href="#">↥ back to top</a></b>
+</div>
 
 
 ## Exam page:
 ![image](https://user-images.githubusercontent.com/70682152/184478902-e792772f-ef2a-45d5-bb18-caecedfa4528.png)
 
+<div align="right">
+    <b><a href="#">↥ back to top</a></b>
+</div>
+
 
 ## Student Management page:
 ![image](https://user-images.githubusercontent.com/70682152/184478242-5a4e274a-5218-4ecd-a21b-1ba13e4bb4df.png)
+<div align="right">
+    <b><a href="#">↥ back to top</a></b>
+</div>
 
 
 
 ## Mark page:
 ![image](https://user-images.githubusercontent.com/70682152/184478931-60d435c9-c238-4214-8c90-3844ba39ca94.png)
+<div align="right">
+    <b><a href="#">↥ back to top</a></b>
+</div>
 
 
 ## Teacher page:
 ![image](https://user-images.githubusercontent.com/70682152/184478939-7edf3989-7570-42c0-b535-02896e848c57.png)
+<div align="right">
+    <b><a href="#">↥ back to top</a></b>
+</div>
 
 
 ## About Project page:
