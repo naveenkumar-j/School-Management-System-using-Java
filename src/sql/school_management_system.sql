@@ -163,7 +163,8 @@ CREATE TABLE IF NOT EXISTS `user` (
 INSERT INTO `user` (`id`, `name`, `phone`, `address`, `uname`, `password`, `utype`) VALUES
 (1, 'Naveenkumar J', '9xxxxxxxxx8', 'Vellore, India', '18MIS0395', '1234', 'Admin'),
 (2, 'Praveen', '9xxxxxxxx1', 'Vellore, India', '18MIS001', '1234', 'Student'),
-(3, 'Jack', '9xxxxxxxx4', 'Vellore, India', '101', '1234', 'Teacher');
+(3, 'Jack', '9xxxxxxxx4', 'Vellore, India', '101', '1234', 'Teacher')
+(4, 'guest', '9xxxxxxxx4', 'Vellore, India', 'guest', 'guest', 'Guest');
 COMMIT;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
