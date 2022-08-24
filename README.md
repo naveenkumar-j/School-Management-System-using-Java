@@ -50,6 +50,10 @@ A School Management System Java Code allows you to keep the student records, Tea
 - [mysql-connector](https://dev.mysql.com/downloads/connector/j/8.0.html)
 - [RsTableMetro](https://github.com/RojeruSan/JTable-Style-Metro-JAVA-v1.0)
 
+## Project Demo:
+[![Project Demo](https://img.youtube.com/vi/LS6msNOarlc/0.jpg)](https://www.youtube.com/watch?v=LS6msNOarlc)
+
+
 
 ### Login page:
 ![image](https://user-images.githubusercontent.com/70682152/184478191-ebd638fd-c157-4665-809e-3eaf119f2341.png)
