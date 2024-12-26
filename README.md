@@ -44,10 +44,7 @@ A School Management System Java Code allows you to keep the student records, Tea
 8. Teacher Management
 
 ### Important JAR links:
-
-- [jcalender](https://toedter.com/jcalendar/)
-- [mysql-connector](https://dev.mysql.com/downloads/connector/j/8.0.html)
-- [RsTableMetro](https://github.com/RojeruSan/JTable-Style-Metro-JAVA-v1.0)
+- [Download all Required JAR files](https://t.me/eagle_programming/22)
 
 ## Project Demo:
 https://user-images.githubusercontent.com/70682152/199054221-d6259e19-4e1e-44aa-9f9f-bef8fcf8aac7.mp4
